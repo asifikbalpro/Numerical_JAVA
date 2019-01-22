@@ -27,5 +27,9 @@ public class Main {
         // spiral_coordinate_data
         Fibo spiral_coordinate_data = new Fibo(); // this is how enter the inside class and make acces the functions.
         spiral_coordinate_data.spiral_coordinates_data();   // this how call the function
+
+        //hyperbolic_cosecant
+        hyperbolic_cosecant cosecant_1 = new hyperbolic_cosecant(); // entering the class.
+        cosecant_1.cosech_data(); // calling the function from class.
     }
 }
